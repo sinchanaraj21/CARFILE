@@ -1,0 +1,7 @@
+{
+  "name": "CARDEON",
+  "description": "A professional cardiovascular healthcare system for early heart disease risk prediction with explainable AI (SHAP). Designed for clinical and academic excellence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
